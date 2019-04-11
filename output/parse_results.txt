@@ -1,0 +1,32 @@
+CORRECT	the sandwich washed a floor in the pickle .
+CORRECT	every floor wanted a pickle .
+CORRECT	every delicious floor pickled the old sandwich in every floor .
+CORRECT	is it true that a mouse under every mouse with the pickle wanted a fine fine mouse ?
+CORRECT	is it true that a pickle kissed the floor ?
+CORRECT	is it true that a fine floor pickled the sandwich with a sandwich ?
+CORRECT	a president pickled every president under a sandwich !
+CORRECT	is it true that every sandwich washed a floor with a pickle ?
+CORRECT	every pickle with the president washed the president .
+CORRECT	is it true that a mouse washed every mouse with the pickle in the mouse on a old pickle ?
+CORRECT	the floor kissed a old floor !
+CORRECT	the delicious pickle on the sandwich with every president under every president wanted the fine pickle under the delicious sandwich in the floor !
+CORRECT	the beautiful floor with the mouse pickled every president .
+CORRECT	every sandwich ate the sandwich .
+CORRECT	is it true that every floor pickled every mouse ?
+CORRECT	every floor washed a old sandwich !
+CORRECT	is it true that every fine sandwich with a mouse on every mouse kissed the mouse ?
+CORRECT	the mouse on the mouse under every floor with a sandwich ate a mouse .
+CORRECT	every pickle ate the mouse with a sandwich on the pickle .
+CORRECT	a mouse wanted every delicious sandwich !
+CORRECT	is it true that every president in a mouse with every floor in the president in the sandwich in the sandwich under every sandwich pickled a sandwich ?
+CORRECT	every pickle washed a pickle !
+CORRECT	is it true that a beautiful floor washed a floor with a floor ?
+NOT CORRECT	a sandwich floor pickled the pickle !
+NOT CORRECT	the floor floor ate a floor .
+NOT CORRECT	is it sandwich that a sandwich ate a sandwich sandwich ?
+NOT CORRECT	the president pickled every.
+NOT CORRECT	is sandwich sandwich that a beautiful floor washed a floor with a floor ?
+NOT CORRECT	every pickle every every president !
+NOT CORRECT	president pickle wanted every president !
+NOT CORRECT	fine fine pickle kissed every president in every president !
+NOT CORRECT	sandwich delicious floor kissed a sandwich .
